@@ -43,7 +43,7 @@ int size = 15;
 ## Commit (https://github.com/nastiaaniukhina/insertion-sort-scm/commit/main)
 Increase array size to 15
 
-## Pull Request ()
+## Pull Request (https://github.com/nastiaaniukhina/insertion-sort-scm/pulls?q=is%3Apr+is%3Aclosed)
 Створено PR з гілки feature/change-array-size у main
 
 ## Review
@@ -85,7 +85,7 @@ Checked: works correctly, no errors
 
 ---
 
-# 📌 Завдання 5. Release Management
+# 📌 Завдання 5. Release Management ()
 
 ## Версія релізу
 v1.0.0
