@@ -27,23 +27,23 @@
 
 # 📌 Завдання 2. Контрольована зміна
 
-## Issue
+## Issue (https://github.com/nastiaaniukhina/insertion-sort-scm/issues)
 Change array size to 15
 
-## Branch
+## Branch ()
 feature/change-array-size
 
-## Зміна
+## Зміна 
 Було:
 int size = 10;
 
 Стало:
 int size = 15;
 
-## Commit
+## Commit ()
 Increase array size to 15
 
-## Pull Request
+## Pull Request ()
 Створено PR з гілки feature/change-array-size у main
 
 ## Review
