@@ -30,7 +30,7 @@
 ## Issue (https://github.com/nastiaaniukhina/insertion-sort-scm/issues)
 Change array size to 15
 
-## Branch ()
+## Branch (https://github.com/nastiaaniukhina/insertion-sort-scm/branches)
 feature/change-array-size
 
 ## Зміна 
