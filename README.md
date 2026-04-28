@@ -85,7 +85,7 @@ Checked: works correctly, no errors
 
 ---
 
-# 📌 Завдання 5. Release Management ()
+# 📌 Завдання 5. Release Management (https://github.com/nastiaaniukhina/insertion-sort-scm/releases/tag/v1.0.0)
 
 ## Версія релізу
 v1.0.0
