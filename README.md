@@ -40,7 +40,7 @@ int size = 10;
 Стало:
 int size = 15;
 
-## Commit ()
+## Commit (https://github.com/nastiaaniukhina/insertion-sort-scm/commit/main)
 Increase array size to 15
 
 ## Pull Request ()
