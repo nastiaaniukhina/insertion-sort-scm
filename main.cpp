@@ -36,7 +36,7 @@ int main()
     setlocale(LC_ALL, "ukr");
     srand(time(0));
 
-    int size = 10;
+    int size = 15;
     char* arr = new char[size];
     for (int i = 0; i < size; i++)
     {
